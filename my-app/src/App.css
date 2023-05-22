@@ -1,0 +1,50 @@
+.image-profil{
+  margin-top: 30px;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.name{
+  margin-top: 100px;
+}
+
+.contact{
+  border-right: solid 1px black ;
+}
+
+body{
+  background-color: rgb(201, 201, 201) !important;
+}
+
+.container{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+ margin-top: 50px;
+  background-color: white;
+ 
+}
+
+.name h6{
+ 
+  margin-left: 140px;
+}
+
+.name h3{
+  margin-left: 100px;
+}
+
+.header{
+  background-color: #00ffff42;
+
+}
+
+.text-test{
+  word-spacing: 50px;
+}
+
+.contact a{
+  text-decoration: none;
+  color: black;
+}
